@@ -26,7 +26,7 @@
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 
-<table>
+<table align="center">
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/><br>Android</td>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" height="40"/><br>Kotlin</td>
