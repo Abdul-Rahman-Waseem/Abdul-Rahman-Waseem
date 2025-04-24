@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdul Rahman Waseem</h1>
+<h1 align="left">Hi 👋, I'm Abdul Rahman Waseem</h1>
 <h3 align="center">Aspiring Software Engineer | Focused on Native App Development</h3>
 
 <p align="center">
@@ -14,23 +14,11 @@
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/abdul-rahman-waseem" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-</p>
-
-
----
-
 <h3 align="left">🗓️ GitHub Activity:</h3>
 
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdul-rahman-waseem&theme=react-dark&hide_border=true&area=true" alt="github activity graph"/>
 </a>
-
 
 ---
 
@@ -94,3 +82,14 @@
   </tr>
 </table>
 
+---
+
+<h3 align="left">🌐 Connect with me:</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdul-rahman-waseem" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+</p>
+
+---
