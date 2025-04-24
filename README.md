@@ -24,6 +24,15 @@
 
 ---
 
+<h3 align="left">🗓️ GitHub Activity:</h3>
+
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdul-rahman-waseem&theme=react-dark&hide_border=true&area=true" alt="github activity graph"/>
+</a>
+
+
+---
+
 <h3 align="left">🛠️ Languages and Tools:</h3>
 
 <table align="center">
