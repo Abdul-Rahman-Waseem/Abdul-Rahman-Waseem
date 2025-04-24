@@ -57,7 +57,7 @@
       Designed an intuitive UI/UX with custom categories and data visualizations to help users manage and monitor their finances effectively.</p>
     </td>
     <td align="center" style="width: 25%; padding: 10px; border: 1px solid #ddd; border-radius: 10px;">
-      <img src="assets/images/HMS.png" width="85" height="85" style="filter: brightness(1.3);" /><br>
+      <img src="assets/images/space.png" width="95" height="95" style="filter: brightness(1.3);" /><br>
       <b>Space Explorer</b><br>
       <i>Native Android App | Kotlin, UI Focused</i><br><br>
       <p style="text-align: justify;">Developed a Hospital Management System in C++ utilizing linked lists and priority queues to efficiently manage patient records, emergency handling, and department-based data storage.<br>
