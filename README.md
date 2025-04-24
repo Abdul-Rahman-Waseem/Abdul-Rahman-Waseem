@@ -15,7 +15,7 @@
 ---
 
 <h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/abdul-rahman-waseem" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
