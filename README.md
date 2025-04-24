@@ -75,7 +75,7 @@
       Showcased core computer networking concepts including socket life cycle, IP addressing, port binding, and multi-step communication flow.</p>
     </td>
     <td align="center" style="width: 25%; padding: 10px; border: 1px solid #ddd; border-radius: 10px;">
-      <img src="https://img.icons8.com/ios/452/heartbeat.png" width="40" height="40" style="filter: brightness(1.3);" /><br>
+      <img src="assets/images/Heart.png" width="85" height="85" style="filter: brightness(1.3);" /><br>
       <b>Comprehensive Analysis of Heart Data</b><br>
       <i>Data Analysis | Python, Statistical Concepts</i><br><br>
       <p style="text-align: justify;">Applied advanced statistical techniques (mean types, standard deviation, skewness, kurtosis) to analyze the Cleveland Heart Disease dataset and extract meaningful health insights.<br>
