@@ -58,8 +58,8 @@
     </td>
     <td align="center" style="width: 25%; padding: 10px; border: 1px solid #ddd; border-radius: 10px;">
       <img src="assets/images/HMS.png" width="85" height="85" style="filter: brightness(1.3);" /><br>
-      <b>Hospital Management System</b><br>
-      <i>GUI Based Software | C++, Data Structures, SFML</i><br><br>
+      <b>Space Explorer</b><br>
+      <i>Native Android App | Kotlin, UI Focused</i><br><br>
       <p style="text-align: justify;">Developed a Hospital Management System in C++ utilizing linked lists and priority queues to efficiently manage patient records, emergency handling, and department-based data storage.<br>
       Implemented secure file handling and authentication features, including password-protected access, persistent record storage, and separate tracking of death records.</p>
     </td>
@@ -78,6 +78,15 @@
       <i>Data Analysis | Python, Statistical Concepts</i><br><br>
       <p style="text-align: justify;">Applied advanced statistical techniques (mean types, standard deviation, skewness, kurtosis) to analyze the Cleveland Heart Disease dataset and extract meaningful health insights.<br>
       Demonstrated data science proficiency by translating raw medical data into actionable insights through custom data tables, descriptive statistics, and domain-specific interpretations.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="width: 25%; padding: 10px; border: 1px solid #ddd; border-radius: 10px;">
+      <img src="assets/images/HMS.png" width="85" height="85" style="filter: brightness(1.3);" /><br>
+      <b>Hospital Management System</b><br>
+      <i>GUI Based Software | C++, Data Structures, SFML</i><br><br>
+      <p style="text-align: justify;">Developed a Hospital Management System in C++ utilizing linked lists and priority queues to efficiently manage patient records, emergency handling, and department-based data storage.<br>
+      Implemented secure file handling and authentication features, including password-protected access, persistent record storage, and separate tracking of death records.</p>
     </td>
   </tr>
 </table>
