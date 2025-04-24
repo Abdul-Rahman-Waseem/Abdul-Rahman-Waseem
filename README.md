@@ -68,7 +68,7 @@
   </tr>
   <tr>
     <td align="center" style="width: 25%; padding: 10px; border: 1px solid #ddd; border-radius: 10px;">
-      <img src="https://img.icons8.com/ios/452/server-room.png" width="40" height="40" style="filter: brightness(1.3);" /><br>
+      <img src="assets/images/scoket.png" width="40" height="40" style="filter: brightness(1.3);" /><br>
       <b>Efficient Socket Programming</b><br>
       <i>Client-Server Communication Software | Python, Computer Networking Principles</i><br><br>
       <p style="text-align: justify;">Built a secure client-server communication app using Python sockets and custom XOR encryption, demonstrating in-depth knowledge of low-level networking and encryption logic.<br>
